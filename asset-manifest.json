@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Blogr/static/css/main.cfbde4ca.css",
+    "main.js": "/Blogr/static/js/main.3bf687d1.js",
+    "static/js/787.c77667fe.chunk.js": "/Blogr/static/js/787.c77667fe.chunk.js",
+    "static/media/illustration-phones.svg": "/Blogr/static/media/illustration-phones.fd23559f1d2f81f9e3f3340eeaf2467c.svg",
+    "static/media/logo.svg": "/Blogr/static/media/logo.1591bc20b914c098a9cd6e423b1623c3.svg",
+    "static/media/illustration-laptop-desktop.svg": "/Blogr/static/media/illustration-laptop-desktop.799209c2628b1f244e1512cc686f0162.svg",
+    "static/media/illustration-editor-desktop.svg": "/Blogr/static/media/illustration-editor-desktop.c6c8050aa4dcf0c64b4406570c970d2b.svg",
+    "static/media/illustration-editor-mobile.svg": "/Blogr/static/media/illustration-editor-mobile.b9c7941a96d06832fa27673be37499a4.svg",
+    "index.html": "/Blogr/index.html",
+    "static/media/bg-pattern-intro.svg": "/Blogr/static/media/bg-pattern-intro.bf6b3e1b727eabeffdc5.svg",
+    "static/media/bg-pattern-circles.svg": "/Blogr/static/media/bg-pattern-circles.bae804b8cc1519f26c944365280d192b.svg",
+    "static/media/icon-close.svg": "/Blogr/static/media/icon-close.c6580312401807bc9f98867a80e2bc37.svg",
+    "static/media/icon-hamburger.svg": "/Blogr/static/media/icon-hamburger.68867946847c3249542e85c3745a1e06.svg",
+    "main.cfbde4ca.css.map": "/Blogr/static/css/main.cfbde4ca.css.map",
+    "main.3bf687d1.js.map": "/Blogr/static/js/main.3bf687d1.js.map",
+    "787.c77667fe.chunk.js.map": "/Blogr/static/js/787.c77667fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfbde4ca.css",
+    "static/js/main.3bf687d1.js"
+  ]
+}
